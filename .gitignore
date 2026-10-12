@@ -1,0 +1,3 @@
+# build output: attach the zip to a GitHub release / Modrinth instead of committing it
+generous_wood.zip
+__pycache__/
